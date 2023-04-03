@@ -8,8 +8,6 @@
 
 - PyAudio
 
-- 
-
 ## Todos
 
 - [x] Create UI interface (.ui)
